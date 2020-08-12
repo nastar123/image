@@ -20,7 +20,7 @@
     /*
      * BotUI回复配置
      */
-    var botui = new BotUI("fogforest");
+    var botui = new BotUI("paaapi");
     botui.message.bot({
         delay: 200,
         content: "Hi, there👋"
